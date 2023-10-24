@@ -10,3 +10,8 @@ Hello
 7. run git push origin main
 
 
+Read more for git cheat sheet
+
+- [cool git cheat sheet from git hub(https://education.github.com/git-cheat-sheet-education.pdf)
+
+
